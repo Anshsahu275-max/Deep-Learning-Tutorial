@@ -4,25 +4,21 @@ This repository covers theory + practical implementation using Python, NumPy, an
 
 ## 📌 What You Will Learn
 - Basics of Deep Learning
-Difference between ML & Deep Learning
-Neural Networks from scratch
-Activation Functions
-Loss Functions
-Gradient Descent & Backpropagation
-Building models using TensorFlow/Keras
-Training, evaluating, and improving models
+- Difference between ML & Deep Learning
+- Neural Networks from scratch
+- Activation Functions
+- Loss Functions
+- Gradient Descent & Backpropagation
+- Building models using TensorFlow/Keras
+- Training, evaluating, and improving models
 
-🛠️ Technologies Used
-Python 3
-NumPy
-
-Pandas
-
-Matplotlib
-
-TensorFlow / Keras
-
-Jupyter Notebook
+## 🛠️ Technologies Used
+- Python 3
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow / Keras
+- Jupyter Notebook
 
 📂 Repository Structure
 Deep-Learning-Tutorial/
